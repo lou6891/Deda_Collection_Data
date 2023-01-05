@@ -1,0 +1,5 @@
+# File to ingore git
+node_modules/
+mongo/push/old/
+*.env
+.idea/

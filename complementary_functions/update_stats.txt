@@ -1,0 +1,12 @@
+for 24 h , 48 h , 7 days, 30 days , 60 days , 180 days , 1 year , max
+
+THe historical data give only the floor price (overall lowest), at 00.
+So either we give them, and after we dispay all of the data, or we keep that format and dislay only the 00.
+
+Let's set it up so that if there are the most accurate data it will display them,
+if not it will only display at 00 (24 h , 48 h , 7 days, 30 days) => all data
+60 days , 180 days , 1 year , max only at 00
+
+documents to create,
+1. Owners related
+2. Floor related

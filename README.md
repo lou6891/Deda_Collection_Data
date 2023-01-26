@@ -1,6 +1,6 @@
 # DEDA COLLECTION DATA
 
-This program works for [DEDA](www.deda.app)
+This program works for [DEDA](https://www.deda.app/)
 
 It has the job retrieve the NFT collection data from different API endpoints, clean and modify them
 and then upload the transformed data to the mongo db database, it runs once every hour.

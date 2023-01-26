@@ -1,6 +1,8 @@
 # DEDA COLLECTION DATA
 
-This function has the job retrieve the NFT collection data from different API endpoints, clean and modify them
+This program works for [DEDA](www.deda.app)
+
+It has the job retrieve the NFT collection data from different API endpoints, clean and modify them
 and then upload the transformed data to the mongo db database, it runs once every hour.
 
 --- 
